@@ -1,0 +1,8 @@
+name: EnnErrE.Bank
+version: '1.0-SNAPSHOT'
+main: ennerre.Bank
+api-version: '1.21'
+commands:
+  bank:
+    usage: /<command>
+    description: Interazione con la mia banca

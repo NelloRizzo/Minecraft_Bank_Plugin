@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bank:jar">
+    <output-path>D:/Nello/Desktop/Paper Minecraft/plugins</output-path>
+    <root id="archive" name="bank.jar">
+      <element id="module-output" name="bank" />
+    </root>
+  </artifact>
+</component>
